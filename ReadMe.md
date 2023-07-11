@@ -6,6 +6,7 @@
 ## 1. Introduction
 This is a simple mobile application that is developed using Android + Kotlin. This application is developed to demonstrate the use of **Linear Layout** and **Relative Layout** in Android.
 
+
 ## 2. Technologies
 - Android Studio
 - Kotlin
