@@ -36,19 +36,19 @@ This is a simple mobile application that is developed using Android + Kotlin. Th
 ## 7. Screenshots
 ### 7.1. Main Screen
 <!-- Size 200 x 400 -->
-<img src="./Screenshots/1.png" width="200" height="400">
+<img src="./Images/1.png" width="200" height="400">
 
 ### 7.2. Calculations
 <!-- Size 200 x 400 -->
-<img src="./Screenshots/2.png" width="200" height="400">
+<img src="./Images/2.png" width="200" height="400">
 
 ### 7.3. Error Handling
 <!-- Size 200 x 400 -->
-<img src="./Screenshots/3.png" width="200" height="400">
-<img src="./Screenshots/4.png" width="200" height="400">
+<img src="./Images/3.png" width="200" height="400">
+<img src="./Images/4.png" width="200" height="400">
 
 ### 7.4 Decimal Numbers
 <!-- Size 200 x 400 -->
-<img src="./Screenshots/5.png" width="200" height="400">
-<img src="./Screenshots/6.png" width="200" height="400">
+<img src="./Images/5.png" width="200" height="400">
+<img src="./Images/6.png" width="200" height="400">
 
